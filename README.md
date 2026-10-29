@@ -2,7 +2,7 @@
 
 > Sistema web full-stack desenvolvido para gerenciamento de uma loja genérica, permitindo o controle completo de clientes, produtos e vendas, com suporte a banco de dados relacional e containerização.
 >
-> 🔗 **Repositório do projeto:** [github.com/joaotorresdev/LojaGenerica-FullStack](https://github.com/joaotorresdev/LojaGenerica-FullStack)[cite: 1]
+> 🔗 **Repositório do projeto:** [github.com/joaotorresdev/LojaGenerica-FullStack](https://github.com/joaotorresdev/LojaGenerica-FullStack)
 
 ---
 
