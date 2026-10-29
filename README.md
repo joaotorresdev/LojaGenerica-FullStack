@@ -1,8 +1,7 @@
 # 🛒 Loja Genérica FullStack
 
 > Sistema web full-stack desenvolvido para gerenciamento de uma loja genérica, permitindo o controle completo de clientes, produtos e vendas, com suporte a banco de dados relacional e containerização.
-
-
+<br>
 ---
 
 ## 🚀 Sobre o Projeto
