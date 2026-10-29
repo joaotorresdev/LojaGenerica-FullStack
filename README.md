@@ -1,0 +1,1 @@
+# LojaGenerica-FullStack
