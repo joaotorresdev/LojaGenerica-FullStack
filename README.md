@@ -19,7 +19,7 @@ O projeto foi construído utilizando as seguintes tecnologias e ferramentas:
 * **Front-end:** HTML5, CSS3 (`estilo.css`)
 * **Servidor Local / Ambiente:** XAMPP / Docker (`Dockerfile`)
 
----
+<br>
 
 ## 📂 Estrutura do Repositório
 
