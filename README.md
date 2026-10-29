@@ -7,7 +7,7 @@
 
 O **LojaGenerica-FullStack** é uma aplicação web estruturada para fins educacionais e práticos, aplicando conceitos fundamentais de desenvolvimento web back-end e front-end. O sistema implementa operações completas de **CRUD** (Create, Read, Update, Delete) integradas a um banco de dados relacional, contando com uma interface estilizada e suporte a ambiente conteinerizado via Docker.
 
----
+<br>
 
 ## 🛠️ Tecnologias Utilizadas
 
